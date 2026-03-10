@@ -11,6 +11,6 @@ Kelas   : B
 - GitHub
 - Visual Studio Code
 
-Daftar File
-README.md
-perkenalan.md
+## Daftar File
+- README.md
+- perkenalan.md
