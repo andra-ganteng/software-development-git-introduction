@@ -4,3 +4,4 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama    : Diandra Goldtama Putra
 NPM     : 2313020064
+Kelas   : B
