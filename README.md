@@ -15,3 +15,4 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 ## Daftar File
 - README.md
 - perkenalan.md
+- Profile.md
