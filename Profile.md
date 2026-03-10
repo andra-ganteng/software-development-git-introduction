@@ -4,4 +4,4 @@
 - Kelas         : B
 - Hobi          : Bermain game
 - Bahasa pemrograman yang ingin dipelajari : Kotlin
-- Target karier di bidang teknologi        : Membuat gaame dan animasi sendiri
+- Target karier di bidang teknologi        : Membuat gaame dan membuat animasi sendiri
