@@ -10,3 +10,7 @@ Kelas   : B
 - Git
 - GitHub
 - Visual Studio Code
+
+Daftar File
+README.md
+perkenalan.md
